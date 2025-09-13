@@ -32,4 +32,6 @@ main(){
   }
 
   stdout.writeln("Your salary is:  $salary");
+
+
 }
