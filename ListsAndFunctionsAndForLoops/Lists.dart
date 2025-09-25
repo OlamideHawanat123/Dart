@@ -14,7 +14,6 @@ main(){
   int smallest = getSmallest(numbers);
   stdout.writeln("The smallest of the digits in numbers is $smallest");
 
-
 }
 
 int getTotal(List<int> numbers){
@@ -53,3 +52,4 @@ int getSumOfLargestAndSmallest(List<int> number){
   }
   return total;
 }
+
